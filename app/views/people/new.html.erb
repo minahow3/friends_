@@ -1,0 +1,10 @@
+<!-- app/views/people/new.html.erb -->
+<h1>テスト</h1>
+<%= form_with(model: @person, url: people_path, method: :post) do |form| %>
+  <%= form.label :name, 'Name' %>
+  <%= form.text_field :name %>
+
+  <!-- 他の必要なフィールドを追加 -->
+
+  <%= form.submit 'Create Person' %>
+<% end %>
