@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  person: one
+  contour: one
+  eyes: one
+  nose: one
+  mouth: one
+  cheeks: one
+  eyebrows: one
+
+two:
+  person: two
+  contour: two
+  eyes: two
+  nose: two
+  mouth: two
+  cheeks: two
+  eyebrows: two

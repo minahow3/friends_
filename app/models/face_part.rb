@@ -1,0 +1,2 @@
+class FacePart < ApplicationRecord
+end
